@@ -25,7 +25,7 @@ Jika Anda tertarik untuk berkenalan lebih lanjut, silakan ikuti saya di [Linkedi
   </tr>
   <tr>
     <th>
-      ![Email](https://img.icons8.com/material-outlined/24/000000/gmail.png) Email
+      <img src="https://img.icons8.com/material-outlined/24/000000/gmail.png"/> Email
     </th>
     <td>
       <a href="mailto:lisyukri.ifdal@gmail.com">lisyukri.ifdal@gmail.com</a>
