@@ -8,7 +8,7 @@ Jika Anda tertarik untuk berkenalan lebih lanjut, silakan ikuti saya di [Linkedi
 
 ## Kontak Saya
 
-<table align="center">
+<table>
   <tr>
     <th>
       <img src="https://img.icons8.com/material-outlined/24/000000/github.png"/> GitHub
