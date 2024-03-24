@@ -1,6 +1,6 @@
-<p align="center">
-# Halo Semua! Perkenalkan, saya **Ifdal Lisyukri**. 👋
-</p>
+<h1 align="center">
+Halo Semua! Perkenalkan, saya **Ifdal Lisyukri**. 👋
+</h1>
 
 Saya adalah seorang **Mahasiswa** di **Universitas Negeri Padang**, jurusan **Informatika**.
 
