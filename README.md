@@ -1,5 +1,5 @@
 <h1 align="center">
-Halo Semua! Perkenalkan, saya **Ifdal Lisyukri**. 👋
+Halo Semua! Perkenalkan, saya <b></b>Ifdal Lisyukri</b>. 👋
 </h1>
 
 Saya adalah seorang **Mahasiswa** di **Universitas Negeri Padang**, jurusan **Informatika**.
