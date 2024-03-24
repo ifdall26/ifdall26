@@ -6,51 +6,49 @@ Saya adalah seorang **Mahasiswa** di **Universitas Negeri Padang**, jurusan **In
 
 Jika Anda tertarik untuk berkenalan lebih lanjut, silakan ikuti saya di [Linkedin](https://www.linkedin.com/in/ifdal-lisyukri-b567372a4/).
 
-## Tentang Saya
- <table>
-            <tr>
-              <th>
-                GitHub
-              </th>
-              <td><a href="https://github.com/ifdall26">ifdall26</a></td>
-            </tr>
-            <tr>
-              <th>
-                Instagram
-              </th>
-              <td>
-                <a href="https://instagram.com/ifd261?igshid=OGQ5ZDc2ODk2ZA=="
-                  >@ifd261</a
-                >
-              </td>
-            </tr>
-            <tr>
-              <th>
-                Email
-              </th>
-              <td>
-                <a href="mailto:lisyukri.ifdal@gmail.com"
-                  >lisyukri.ifdal@gmail.com</a
-                >
-              </td>
-            </tr>
-            <tr>
-              <th>
-                Whatsapp
-              </th>
-              <td>
-                <a href="https://wa.me/6282210389468">+62 822 1038 9468</a>
-              </td>
-            </tr>
-            <tr>
-              <th>
-                Youtube
-              </th>
-              <td>
-                <a href="https://youtube.com/@il7832?si=x4wFJ3JWLaaY4EY_">IL</a>
-              </td>
-            </tr>
-          </table>
+## Kontak Saya
+
+<table align="center">
+  <tr>
+    <th>
+      <img src="https://img.icons8.com/material-outlined/24/000000/github.png"/> GitHub
+    </th>
+    <td><a href="https://github.com/ifdall26">ifdall26</a></td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/> Instagram
+    </th>
+    <td>
+      <a href="https://instagram.com/ifd261?igshid=OGQ5ZDc2ODk2ZA==">@ifd261</a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.icons8.com/material-outlined/24/000000/gmail.png"/> Email
+    </th>
+    <td>
+      <a href="mailto:lisyukri.ifdal@gmail.com">lisyukri.ifdal@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.icons8.com/material-outlined/24/000000/whatsapp.png"/> Whatsapp
+    </th>
+    <td>
+      <a href="https://wa.me/6282210389468">+62 822 1038 9468</a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="https://img.icons8.com/material-outlined/24/000000/youtube-play.png"/> Youtube
+    </th>
+    <td>
+      <a href="https://youtube.com/@il7832?si=x4wFJ3JWLaaY4EY_">IL</a>
+    </td>
+  </tr>
+</table>
+
 
 ## Statistik Github
 <p align="left">
